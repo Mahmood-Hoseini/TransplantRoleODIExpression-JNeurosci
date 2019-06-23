@@ -1,5 +1,5 @@
 # Overview
-This repository contains the MATLAB and python codes used to analyze the data and generate the figures in Hoseini et al., Transplanted cells are essential for the induction but not the expression of cortical plasticity (2014).
+This repository contains the MATLAB and python codes used to analyze the data and generate the figures in Hoseini et al., Transplanted cells are essential for the induction but not the expression of cortical plasticity (2019).
 
 Our primary goal was to publish the actual code that we used to analyze the pre-processed data and create the figures, to provide full transparency and to enable readers to read it and find out the exact details of what was done.
 
